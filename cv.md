@@ -1,6 +1,6 @@
 # Kseniya Yurchyk
 
-##Summary
+## Summary
 I am an IT student. Rignt now I am in the beginning of my way to the dream to be a Front End Developer. My goal for a current moment - learn HTML, CSS and JavaScript.
 
 ## Contacts
@@ -18,10 +18,10 @@ Discord: Nutsksu#5375
 2006-2012 Belorussian State University of Transport
 Automation, telemechanics and communication for railway transport
 
-##Projects
+## Projects
 * Here will be the link to one of my future projects
 * Here will be the one more link to one of my future projects
 
- Languages
+ ## Languages
  * Russian (native)
  * English (intermediate)
