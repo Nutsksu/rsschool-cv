@@ -1,7 +1,7 @@
 #Adding CSS
-.topbackground {
+.background {
     background-color: hsl(34, 77%, 76%);
 }
 .name {
-    color: aliceblue;
+    color: #eff4f8;
 }
