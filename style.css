@@ -3,16 +3,20 @@
     height: 200px;
     background-color: rgb(199, 159, 108);
 }
+
 .background {
-    background-color: #FFEFD5;
+    background-color: rgb(255, 239, 213);
 }
+
 .name {
     font-size: 60px;
     color: hsl(30, 17%, 95%);
 }
+
 .heading {
     color: hsl(34, 35%, 30%);
 }
+
 .paragraph {
     color:rgb(27, 16, 2)
 }
