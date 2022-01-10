@@ -1,22 +1,49 @@
 .topbackground {
     width: 800px;
     height: 200px;
-    background-color: rgb(199, 159, 108);
+    background-color: #e4c398;
 }
 
 .background {
-    background-color: rgb(255, 239, 213);
+    width: 800px;
+    background-color: hsl(36, 82%, 93%);
 }
 
 .name {
-    font-size: 60px;
+    font-size: 40px;
+    text-align: center;
     color: hsl(30, 17%, 95%);
 }
 
 .heading {
+    font-size: 24px;
+    line-height: 36px;
+    text-decoration: underline;
     color: hsl(34, 35%, 30%);
 }
 
 .paragraph {
-    color:rgb(27, 16, 2)
+    font-size: 24px;
+    line-height: 36px;
+    color:#72706e
+}
+.list {
+    font-size: 24px;
+    line-height: 36px;
+    color: #72706e;
+}
+
+.footer {
+    font-size: 10px;
+    text-align: right;
+}
+.photo {
+    width: 200px;
+    height: 200px;
+}
+.summary {
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color:hsl(34, 35%, 30%)
 }
